@@ -1,0 +1,8 @@
+{
+  "name": "evc-scan-app",
+  "app_id": "d0f8ecae",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
